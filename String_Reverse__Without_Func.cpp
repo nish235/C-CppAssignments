@@ -6,7 +6,7 @@ int main() {
   	int i,len=0;
   	cout<<"\n Enter the String : ";
   	cin>>st;
-	for(i=0;st[i]!=0;i++)
+	for(i=0;st[i]!='\0';i++)
 	{
 	    len++;
 	}
