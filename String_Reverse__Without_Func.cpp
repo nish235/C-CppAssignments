@@ -13,8 +13,8 @@ int main() {
 	}
   	cout<<"\n Reverse String Is : ";
   	for(;len>=0;len--)
-    {
+    	{
         cout<<st[len];
-    }
+    	}
   	return 0;
 }
