@@ -1,0 +1,5 @@
+Rohit 0001 Vighnaharta nagpur 12345 
+Tejas 0002 KatolRoad nagpur 12345 
+Nish 0003 ManoharVihar nagpur 45678 
+Amit 0004 FriendsColony nagpur 345656 
+Karuna 0005 MyAddress nagpur 45678 
